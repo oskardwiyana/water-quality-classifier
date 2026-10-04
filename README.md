@@ -2,10 +2,6 @@
 
 Klasifikasi kelayakan air minum (*potability*) dari 9 parameter kualitas air, menggunakan **Random Forest** dan **Logistic Regression**.
 
-Proyek ini dibuat sebagai tugas mata kuliah Kecerdasan Buatan (Semester 3).
-
-**Dibuat oleh:** _(isi nama kamu, atau hapus baris ini)_
-
 ## Dataset
 
 [Water Potability](https://www.kaggle.com/datasets/adityakadiwal/water-potability) dari Kaggle (cek lisensinya di halaman dataset).
